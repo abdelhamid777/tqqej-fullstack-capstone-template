@@ -1,17 +1,22 @@
-name 	User stories capstone project
-about 	Describe this issue template's purpose here.
-title 	user story
-labels 	
-assignees 	
+---
+name: User Story
+about: Create a user story for the project
+title: 'USER STORY: '
+labels: ''
+assignees: ''
+---
+
+## User Story
 
 As a [role] I need [function] So that [benefit]
-Details and Assumptions
+
+## Details and Assumptions
 
 * [document what you know]
 
-Acceptance Criteria
+## Acceptance Criteria
 
-gherkin
+```gherkin
 Given [some context]
 When [certain action is taken]
 Then [the outcome of action is observed]
